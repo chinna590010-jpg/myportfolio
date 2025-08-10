@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+    background-color:rgb(6, 29, 38);
+    color: white;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:rgb(4, 24, 31);
+}
+.navibar-left{
+    padding-left: 50px;
+
+}
+.logo{
+    height: 50px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.port{
+    color:rgb(189, 131, 141) ;
+    font-size: 30px;
+}
+.navibar-right
+{
+    padding-right: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.a-element{
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh;
+   }
+.home-left{
+    width: 50vw;
+    height: 50vh;
+}
+.home-right{
+    width: 50vw;
+}
+.html-image{
+    height: 150px;
+    padding-left: 250px;
+}
+.css-image{
+    height: 150px;
+    padding-left: 400px;
+    padding-inline-start: 50px;
+}
+.js-image{
+    height: 180px;
+    padding-left: 230px;
+    padding-top: 20px;
+}
+.py-image{
+    height: 130px;
+    padding-left: 280px;
+    padding-inline-start: 30px;
+    padding-bottom: 40px;
+
+}
+.mylogo{
+    height: 330px;
+    padding-left: 180px;
+    padding-bottom: 65px;
+    
+}
+.about-me{
+    font-family: 'Ubuntu',sans-serif;
+    color: rgb(109, 175, 147);
+    letter-spacing: 2px;
+    font-size: 40px;
+
+}
+.myself{
+    padding-left: 260px;
+    padding-right: 180px;
+    font-size: 22px;
+    font-family: "Playfair Display", serif;
+    letter-spacing: 1px;
+}
+.skills-heading{
+    font-family: 'Ubuntu',sans-serif;
+    color: rgb(28, 255, 161);
+    letter-spacing: 2px;
+    font-size: 20px;
+
+}
+.contact{
+    text-align: center;
+}
+.heading-cont{
+    font-family: 'Ubuntu',sans-serif;
+    color: rgb(28, 255, 161);
+    letter-spacing: 2px;
+    font-size: 19px;
+
+}
+.contact-info{
+    display: flex;
+    flex-direction: row;
+    padding-left: 400px;
+    padding-bottom: 80px;
+}
+.info{
+    padding: 10px;
+    border: 3px rgb(66, 123, 66) solid;
+    margin: 13px;
+}
+.image-insta{
+    height: 30px;
+    padding-top: 10px;
+    padding-left:40px;
+}
+.image-linkdin{
+    height: 40px;
+    padding-right: 30px;
+    padding-left: 25px;
+}
+.myname{
+    font-size: 30px;
+    color: rgb(148, 199, 155);
+    font-style: italic;
+}
+.skills-hlt{
+    color: rgb(196, 144, 153);
+}
